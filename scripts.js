@@ -1,6 +1,6 @@
 // Click YES button
 function clickYesButton() {
-    alert('I like you too <3');
+    alert('I like you too shwetabh');
 }
 
 // Move NO button on hover (Desktop) or click (Mobile)
